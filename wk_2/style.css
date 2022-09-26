@@ -1,0 +1,30 @@
+
+.right-box{
+    display: inline;
+    width: 490px;
+    height: 500px;
+    background-color: red;
+    float: right;
+}
+.footer {
+    clear : both
+      float: none
+  }
+
+.main-box{
+    /* display: inline-block; */
+    width: 1000px;
+    height: 400px;
+    background-color:aquamarine;
+    margin: 50;
+}
+.left-box{
+    /* display: inline; */
+    width: 1000px;
+    height: 150px;
+    background-color: blue;
+    margin: 50;
+}
+
+
+
